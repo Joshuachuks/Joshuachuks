@@ -1,4 +1,5 @@
-## Hi there I am Joshua joyous👋
+
+## Hi there I am Joshua charity joyous👋
 
 <!--
 **Joshuachuks/Joshuachuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
